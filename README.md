@@ -12,7 +12,7 @@ Este material é composto de códigos e anotações desenvolvidos no curso Postg
 * Joins (INNER JOIN, LEFT JOIN, RIGHT JOIN, CROSS JOIN);
 * Inclusão de chaves estrangeiras;
 * ORDER BY;
-* LIMTI;
+* LIMIT;
 * Funções de agregação (SUM, AVG, MIN, MAX, COUNT);
 * DISTINCT;
 * GROUP BY;
